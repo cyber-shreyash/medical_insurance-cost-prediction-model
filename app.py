@@ -5,7 +5,7 @@ import pickle
 # ---------------------------
 # Load Model and Scaler
 # ---------------------------
-with open("medical_insurance_model.pkl", "rb") as file:
+with open("medical_model.pkl", "rb") as file:
     model = pickle.load(file)
 
 with open("scaler_medical.pkl", "rb") as file:
