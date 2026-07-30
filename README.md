@@ -53,13 +53,13 @@ streamlit run app.py
 
 Then open the local URL shown in the terminal in your browser.
 
+## App Preview
+
+![Medical Insurance Cost Prediction App](image.png)
+
 ## Live Demo
 
-You can add a live demo URL here once deployed:
-
 [Live Demo](https://medicalinsurance-cost-prediction-model-ea5eysy6mqz6ds3shgfztt.streamlit.app/)
-
-Replace the placeholder link above with your actual app URL.
 
 ## Example
 
